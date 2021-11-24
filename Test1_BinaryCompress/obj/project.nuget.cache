@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QC5BZDmYaVGyxIUsAajxiVZrk6g3NgkWzSZQMxdbnYyyWKt6hLoGaOYUst7lCwK9g+f/r2FCMBrzSHrxTVHIAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RSM_DEV\\source\\repos\\PROJECTS\\FORTE_GROUP\\TASKS\\SimpleTasks\\Test1_BinaryCompress\\Test1_BinaryCompress.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSM_DEV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

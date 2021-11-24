@@ -1,0 +1,14 @@
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\bin\Debug\netcoreapp3.1\Test1_BinaryCompress.exe
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\bin\Debug\netcoreapp3.1\Test1_BinaryCompress.deps.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\bin\Debug\netcoreapp3.1\Test1_BinaryCompress.runtimeconfig.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\bin\Debug\netcoreapp3.1\Test1_BinaryCompress.runtimeconfig.dev.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\bin\Debug\netcoreapp3.1\Test1_BinaryCompress.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\bin\Debug\netcoreapp3.1\Test1_BinaryCompress.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\obj\Debug\netcoreapp3.1\Test1_BinaryCompress.csproj.AssemblyReference.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\obj\Debug\netcoreapp3.1\Test1_BinaryCompress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\obj\Debug\netcoreapp3.1\Test1_BinaryCompress.AssemblyInfoInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\obj\Debug\netcoreapp3.1\Test1_BinaryCompress.AssemblyInfo.cs
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\obj\Debug\netcoreapp3.1\Test1_BinaryCompress.csproj.CoreCompileInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\obj\Debug\netcoreapp3.1\Test1_BinaryCompress.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\obj\Debug\netcoreapp3.1\Test1_BinaryCompress.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test1_BinaryCompress\obj\Debug\netcoreapp3.1\Test1_BinaryCompress.genruntimeconfig.cache

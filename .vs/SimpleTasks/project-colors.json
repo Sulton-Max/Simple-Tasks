@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eae2cdf9-eb4e-4175-aaf2-2d51f4d9597d": {
+      "ProjectGuid": "eae2cdf9-eb4e-4175-aaf2-2d51f4d9597d",
+      "DisplayName": "Test1_BinaryCompress",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
