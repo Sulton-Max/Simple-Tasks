@@ -7,7 +7,8 @@ namespace Test1_BinaryCompress
 {
     internal class Program
     {
-        public static string FilePath = @"Samples\sample.txt";
+        public static string InputPath = @"Samples\input.txt";
+        public static string OutputPath = @"Samples\output.txt";
 
         static void Main(string[] args)
         {
@@ -16,20 +17,22 @@ namespace Test1_BinaryCompress
 
         public static void Execute()
         {
-            var correctPath = GetCorrectPath(FilePath);
+            var inputPath = GetCorrectPath(InputPath);
+            var outputPath = GetCorrectPath(OutputPath);
+
             string result = default;
-            if(FileExistanceChecker(correctPath))
+            if(FileExistanceChecker(inputPath))
             {
-                result = GetString(correctPath);
+                result = GetString(inputPath);
             }
 
             string pattern = GetPattern(result);
-            Console.WriteLine(pattern);
+            WriteToOutput(pattern, outputPath);
         }
 
         public static bool FileExistanceChecker(string path)
         {
-            if (File.Exists(FilePath))
+            if (File.Exists(path))
                 return true;
 
             return false;
@@ -38,7 +41,7 @@ namespace Test1_BinaryCompress
         public static string GetCorrectPath(string path)
         {
             var dir = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-            return Path.Combine(dir, FilePath);
+            return Path.Combine(dir, path);
         }
 
         public static string GetString(string filePath)
@@ -83,11 +86,28 @@ namespace Test1_BinaryCompress
             {
                 zeros = (numberOfZeros - 25);
                 result += new String('0', zeros);
+                zeros = 25;
             }
 
             char symbol = (char)(zeros + 'a');
             result += symbol;
             return result;
+        }
+
+        public static void WriteToOutput(string output, string path)
+        {
+            if (File.Exists(path))
+            {
+                File.Delete(path);
+            }
+
+            using (FileStream fs = File.Open(path, FileMode.OpenOrCreate, FileAccess.ReadWrite))
+            {
+                using (StreamWriter sw = new StreamWriter(fs))
+                {
+                    sw.Write(output);
+                }
+            }
         }
     }
 }
