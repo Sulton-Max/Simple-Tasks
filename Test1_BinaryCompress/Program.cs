@@ -17,8 +17,8 @@ namespace Test1_BinaryCompress
 
         public static void Execute()
         {
-            var inputPath = GetCorrectPath(InputPath);
-            var outputPath = GetCorrectPath(OutputPath);
+            var inputPath = GetFullPath(InputPath);
+            var outputPath = GetFullPath(OutputPath);
 
             string result = default;
             if(FileExistanceChecker(inputPath))
@@ -38,7 +38,7 @@ namespace Test1_BinaryCompress
             return false;
         }
 
-        public static string GetCorrectPath(string path)
+        public static string GetFullPath(string path)
         {
             var dir = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             return Path.Combine(dir, path);

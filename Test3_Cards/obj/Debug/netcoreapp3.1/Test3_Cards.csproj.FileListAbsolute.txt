@@ -1,0 +1,14 @@
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\bin\Debug\netcoreapp3.1\Test3_Cards.exe
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\bin\Debug\netcoreapp3.1\Test3_Cards.deps.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\bin\Debug\netcoreapp3.1\Test3_Cards.runtimeconfig.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\bin\Debug\netcoreapp3.1\Test3_Cards.runtimeconfig.dev.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\bin\Debug\netcoreapp3.1\Test3_Cards.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\bin\Debug\netcoreapp3.1\Test3_Cards.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\obj\Debug\netcoreapp3.1\Test3_Cards.csproj.AssemblyReference.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\obj\Debug\netcoreapp3.1\Test3_Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\obj\Debug\netcoreapp3.1\Test3_Cards.AssemblyInfoInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\obj\Debug\netcoreapp3.1\Test3_Cards.AssemblyInfo.cs
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\obj\Debug\netcoreapp3.1\Test3_Cards.csproj.CoreCompileInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\obj\Debug\netcoreapp3.1\Test3_Cards.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\obj\Debug\netcoreapp3.1\Test3_Cards.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test3_Cards\obj\Debug\netcoreapp3.1\Test3_Cards.genruntimeconfig.cache

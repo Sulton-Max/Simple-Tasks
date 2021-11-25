@@ -1,0 +1,14 @@
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\bin\Debug\netcoreapp3.1\Test2_Gulliver.exe
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\bin\Debug\netcoreapp3.1\Test2_Gulliver.deps.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\bin\Debug\netcoreapp3.1\Test2_Gulliver.runtimeconfig.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\bin\Debug\netcoreapp3.1\Test2_Gulliver.runtimeconfig.dev.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\bin\Debug\netcoreapp3.1\Test2_Gulliver.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\bin\Debug\netcoreapp3.1\Test2_Gulliver.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\obj\Debug\netcoreapp3.1\Test2_Gulliver.csproj.AssemblyReference.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\obj\Debug\netcoreapp3.1\Test2_Gulliver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\obj\Debug\netcoreapp3.1\Test2_Gulliver.AssemblyInfoInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\obj\Debug\netcoreapp3.1\Test2_Gulliver.AssemblyInfo.cs
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\obj\Debug\netcoreapp3.1\Test2_Gulliver.csproj.CoreCompileInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\obj\Debug\netcoreapp3.1\Test2_Gulliver.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\obj\Debug\netcoreapp3.1\Test2_Gulliver.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Test2_Gulliver\obj\Debug\netcoreapp3.1\Test2_Gulliver.genruntimeconfig.cache

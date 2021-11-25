@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJ5O/VAnnT3hwXQu7sDcCGPtXIkU2xuRF0xHt5mR3kNfjLavyGqSMp2n4HPG1uBzy4YbqCIDbUOoo/ZwCTq1VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RSM_DEV\\source\\repos\\PROJECTS\\FORTE_GROUP\\TASKS\\SimpleTasks\\Test3_Cards\\Test3_Cards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSM_DEV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

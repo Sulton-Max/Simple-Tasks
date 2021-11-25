@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1_BinaryCompress", "Test1_BinaryCompress\Test1_BinaryCompress.csproj", "{EAE2CDF9-EB4E-4175-AAF2-2D51F4D9597D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test1_BinaryCompress", "Test1_BinaryCompress\Test1_BinaryCompress.csproj", "{EAE2CDF9-EB4E-4175-AAF2-2D51F4D9597D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2_Gulliver", "Test2_Gulliver\Test2_Gulliver.csproj", "{5AFE45C0-E38D-428D-952F-11653F4BD65E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test3_Cards", "Test3_Cards\Test3_Cards.csproj", "{A115E6F1-379E-45DC-8BCF-C443DFAB8B3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{EAE2CDF9-EB4E-4175-AAF2-2D51F4D9597D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAE2CDF9-EB4E-4175-AAF2-2D51F4D9597D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAE2CDF9-EB4E-4175-AAF2-2D51F4D9597D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AFE45C0-E38D-428D-952F-11653F4BD65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFE45C0-E38D-428D-952F-11653F4BD65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFE45C0-E38D-428D-952F-11653F4BD65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFE45C0-E38D-428D-952F-11653F4BD65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A115E6F1-379E-45DC-8BCF-C443DFAB8B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A115E6F1-379E-45DC-8BCF-C443DFAB8B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A115E6F1-379E-45DC-8BCF-C443DFAB8B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A115E6F1-379E-45DC-8BCF-C443DFAB8B3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

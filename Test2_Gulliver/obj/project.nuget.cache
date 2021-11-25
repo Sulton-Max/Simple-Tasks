@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kaZCGssLHaZSY5gQsdkDhoWLxh++MJSy4kdmvlgIMTHz21YuErXAiXGfnUh58+z25dle+hq3e95jnhbNu307Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RSM_DEV\\source\\repos\\PROJECTS\\FORTE_GROUP\\TASKS\\SimpleTasks\\Test2_Gulliver\\Test2_Gulliver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSM_DEV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
