@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipsQnaBAIkcc8nUu3DlVd3FwWfybWUolNQWa/370Rh/3nYcmlXcjfE5rvmvoz+mx06mMe+w1YXuAzeLdWH5kEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RSM_DEV\\source\\repos\\PROJECTS\\FORTE_GROUP\\TASKS\\SimpleTasks\\Test3_Triangles\\Test3_Triangles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSM_DEV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
