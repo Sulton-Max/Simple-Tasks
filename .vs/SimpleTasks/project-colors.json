@@ -5,7 +5,22 @@
       "ProjectGuid": "eae2cdf9-eb4e-4175-aaf2-2d51f4d9597d",
       "DisplayName": "Test1_BinaryCompress",
       "ColorIndex": 0
+    },
+    "5afe45c0-e38d-428d-952f-11653f4bd65e": {
+      "ProjectGuid": "5afe45c0-e38d-428d-952f-11653f4bd65e",
+      "DisplayName": "Test2_Gulliver",
+      "ColorIndex": 1
+    },
+    "a115e6f1-379e-45dc-8bcf-c443dfab8b3d": {
+      "ProjectGuid": "a115e6f1-379e-45dc-8bcf-c443dfab8b3d",
+      "DisplayName": "Test3_Cards",
+      "ColorIndex": 2
+    },
+    "027b08db-bc37-445a-8e91-5f9c6a08da18": {
+      "ProjectGuid": "027b08db-bc37-445a-8e91-5f9c6a08da18",
+      "DisplayName": "Test3_Triangles",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

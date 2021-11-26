@@ -1,0 +1,13 @@
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\bin\Debug\netcoreapp3.1\Task4_Triangles.exe
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\bin\Debug\netcoreapp3.1\Task4_Triangles.deps.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\bin\Debug\netcoreapp3.1\Task4_Triangles.runtimeconfig.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\bin\Debug\netcoreapp3.1\Task4_Triangles.runtimeconfig.dev.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\bin\Debug\netcoreapp3.1\Task4_Triangles.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\bin\Debug\netcoreapp3.1\Task4_Triangles.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\obj\Debug\netcoreapp3.1\Task4_Triangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\obj\Debug\netcoreapp3.1\Task4_Triangles.AssemblyInfoInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\obj\Debug\netcoreapp3.1\Task4_Triangles.AssemblyInfo.cs
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\obj\Debug\netcoreapp3.1\Task4_Triangles.csproj.CoreCompileInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\obj\Debug\netcoreapp3.1\Task4_Triangles.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\obj\Debug\netcoreapp3.1\Task4_Triangles.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task4_Triangles\obj\Debug\netcoreapp3.1\Task4_Triangles.genruntimeconfig.cache
