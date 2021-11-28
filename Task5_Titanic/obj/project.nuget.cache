@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MdtaI+WF9F8eVq38tGX2izs7vWQsZSuvwj9lDmgkW34VDNXsks6Zk+UAKE3HiVC+d8l3YdpyviAmTJeIFy/GyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RSM_DEV\\source\\repos\\PROJECTS\\FORTE_GROUP\\TASKS\\SimpleTasks\\Task5_Titanic\\Task5_Titanic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RSM_DEV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

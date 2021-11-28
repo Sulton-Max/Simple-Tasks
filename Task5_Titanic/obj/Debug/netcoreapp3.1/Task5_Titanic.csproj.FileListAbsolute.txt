@@ -1,0 +1,14 @@
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\bin\Debug\netcoreapp3.1\Task5_Titanic.exe
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\bin\Debug\netcoreapp3.1\Task5_Titanic.deps.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\bin\Debug\netcoreapp3.1\Task5_Titanic.runtimeconfig.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\bin\Debug\netcoreapp3.1\Task5_Titanic.runtimeconfig.dev.json
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\bin\Debug\netcoreapp3.1\Task5_Titanic.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\bin\Debug\netcoreapp3.1\Task5_Titanic.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\obj\Debug\netcoreapp3.1\Task5_Titanic.csproj.AssemblyReference.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\obj\Debug\netcoreapp3.1\Task5_Titanic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\obj\Debug\netcoreapp3.1\Task5_Titanic.AssemblyInfoInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\obj\Debug\netcoreapp3.1\Task5_Titanic.AssemblyInfo.cs
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\obj\Debug\netcoreapp3.1\Task5_Titanic.csproj.CoreCompileInputs.cache
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\obj\Debug\netcoreapp3.1\Task5_Titanic.dll
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\obj\Debug\netcoreapp3.1\Task5_Titanic.pdb
+C:\Users\RSM_DEV\source\repos\PROJECTS\FORTE_GROUP\TASKS\SimpleTasks\Task5_Titanic\obj\Debug\netcoreapp3.1\Task5_Titanic.genruntimeconfig.cache

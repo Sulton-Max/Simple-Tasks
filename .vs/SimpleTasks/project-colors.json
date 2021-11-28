@@ -20,7 +20,12 @@
       "ProjectGuid": "027b08db-bc37-445a-8e91-5f9c6a08da18",
       "DisplayName": "Test3_Triangles",
       "ColorIndex": 3
+    },
+    "3d9601f4-05c5-43aa-aea0-214135144c90": {
+      "ProjectGuid": "3d9601f4-05c5-43aa-aea0-214135144c90",
+      "DisplayName": "Task4_Triangles",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

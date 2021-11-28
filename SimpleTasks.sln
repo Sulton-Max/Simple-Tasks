@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test2_Gulliver", "Test2_Gul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test3_Cards", "Test3_Cards\Test3_Cards.csproj", "{A115E6F1-379E-45DC-8BCF-C443DFAB8B3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4_Triangles", "Task4_Triangles\Task4_Triangles.csproj", "{3D9601F4-05C5-43AA-AEA0-214135144C90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task4_Triangles", "Task4_Triangles\Task4_Triangles.csproj", "{3D9601F4-05C5-43AA-AEA0-214135144C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5_Titanic", "Task5_Titanic\Task5_Titanic.csproj", "{0E8416B1-A0D6-4AB7-9F44-94B527D30199}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3D9601F4-05C5-43AA-AEA0-214135144C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D9601F4-05C5-43AA-AEA0-214135144C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D9601F4-05C5-43AA-AEA0-214135144C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8416B1-A0D6-4AB7-9F44-94B527D30199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8416B1-A0D6-4AB7-9F44-94B527D30199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8416B1-A0D6-4AB7-9F44-94B527D30199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8416B1-A0D6-4AB7-9F44-94B527D30199}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
